@@ -1,0 +1,209 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+
+.conteinar {
+    width: 1140px;
+    margin: auto;
+}
+
+.nav {
+    overflow: hidden;
+    width: 100%;
+    /* float: left; */
+}
+
+.logo {
+    width: 20%;
+    float: left;
+}
+
+.headermenu {
+    width: 80%;
+    float: right;
+}
+
+.logo img {
+    width: 100px;
+}
+
+.headermenu ul li {
+    display: inline-block;
+    float: right;
+    line-height: 48px;
+}
+
+.headermenu ul li a {
+
+    color: #5b5757;
+
+    text-decoration: none;
+
+    margin-right: 30px;
+
+    text-transform: capitalize;
+
+    font-size: 15px;
+}
+
+
+.headermenu {
+    width: 80%;
+    float: right;
+}
+
+.headermenu ul li {
+    display: inline-block;
+}
+
+.headermenu ul li a {}
+
+hr#header-hr {
+    /* height: 5px; */
+    width: 100%;
+}
+
+
+
+
+.amplify {
+    text-align: center;
+    padding: 70px 0px;
+}
+
+
+.amplifydets h1 {
+    font-size: 35px;
+    line-height: 50px;
+}
+
+.amplifydets span {
+    color: #2e53f1;
+}
+
+.amplifydets p {
+    line-height: 23px;
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+.amplifyimg {
+    width: 100%;
+}
+
+.amplifyimg img {
+    width: 540px;
+    margin-top: 10px;
+}
+
+
+.succleft {
+    width: 48%;
+    float: left;
+    text-align: right;
+}
+
+.succright {
+    width: 48%;
+    float: right;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.successdetls {
+    width: 800px;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 85px;
+}
+
+
+.succleft span {
+    font-size: 40px;
+    font-weight: 700;
+    color: tomato;
+}
+
+.succleft p {
+    font-size: 15px;
+    color: gray;
+}
+
+
+
+.cardWrapper {
+    overflow: hidden;
+}
+
+.card {
+    width: 350px;
+    background: #ffc1b67a;
+    border: none;
+    outline: none;
+}
+
+.card img {
+    width: 100%;
+}
+
+.cardWrapper {
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+
+.card {
+    width: 350px;
+    background: #fbdbd57a;
+    border: none;
+    outline: none;
+    float: left;
+    margin-right: 30px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.cardtls {
+    line-height: 25px;
+    padding: 10px;
+}
+
+.cardtls h2 {
+    margin-bottom: 10px;
+}
+
+.cardtls p {
+    color: #8a7272;
+}
+
+.cardtr {
+    background: #fff9e163;
+}
+
+.cardtw {
+    background: #ddf5ebbf;
+}
+
+footer#copyright {
+    background: #0058d4de;
+    margin-bottom: 10px;
+}
+
+.coprighttext {
+    text-align: center;
+    color: #9b9595;
+    padding: 20px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.coprighttext span {
+    color: wheat;
+    text-transform: uppercase;
+    font-size: 13px;
+}
